@@ -13,7 +13,8 @@ The emotion dataset is sourced from [Kaggle](https://www.kaggle.com/praveengovi/
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/yourusername/your-repo.git
+   git clone https://github.com/Mohammed20037/Text-emotion-detection-using-NLP-techniques.git
+
 
 
 ## Install the required dependencies:
